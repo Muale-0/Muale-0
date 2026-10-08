@@ -108,6 +108,9 @@ Passei 4 meses em Jacksonville, na Flórida, num intercâmbio de estudos, e tenh
   <a href="https://www.instagram.com/o_muale/">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram"/>
   </a>
+  <a href="https://muale-0.github.io">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" alt="Portfólio"/>
+  </a>
 </p>
 
 <!-- ================= RODAPÉ ================= -->
