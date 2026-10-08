@@ -40,7 +40,15 @@ Passei 4 meses em Jacksonville, na Flórida, num intercâmbio de estudos, e tenh
 <!-- ================= PROJETOS ================= -->
 ### `> projetos`
 
-> 🌱 Primeiros projetos em construção. Em breve, aqui.
+<p align="center">
+  <a href="https://github.com/Muale-0/Muale-0.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muale-0&repo=Muale-0.github.io&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide_border=true" alt="Portfólio"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://muale-0.github.io">🌐 Ver o site no ar</a>
+</p>
 
 <!--
   Quando tiver projetos, apague este comentário e troque NOME-DO-REPO pelo nome do repositório:
